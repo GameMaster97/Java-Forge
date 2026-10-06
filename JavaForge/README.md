@@ -1,5 +1,38 @@
 # JavaForge
+## 🤝 Contributors Wanted
 
+JavaForge is open to developers who want to contribute to
+an open-source Java project.
+
+You can contribute by:
+
+- 🐛 Fixing bugs
+- ✨ Adding new features
+- 🧪 Writing tests
+- 📚 Improving documentation
+- ⚡ Improving algorithms
+- 🏗️ Adding data structures
+
+### 🚀 Looking for something to work on?
+
+Check our open issues:
+
+👉 [View Open Issues](../../issues)
+
+### 🌱 First contribution?
+
+Look for issues labeled:
+
+`good first issue`
+
+### 💪 Want to help?
+
+Look for issues labeled:
+
+`help wanted`
+
+Before starting work, please read
+[CONTRIBUTING.md](CONTRIBUTING.md).
 **JavaForge** is a small, beginner-friendly Java library of reusable utilities, algorithms, and data structures. It is designed for learning and meaningful open-source contributions.
 
 ## Requirements
