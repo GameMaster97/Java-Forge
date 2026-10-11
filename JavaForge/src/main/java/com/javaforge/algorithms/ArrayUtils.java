@@ -20,4 +20,24 @@ public final class ArrayUtils {
         }
         return -1;
     }
+    /**
+     * Searches an array for target using linear search.
+     * Returns the index of the first match, or -1 if not found.
+     *
+     * @param values the array to search (must not be null)
+     * @param target the value to find
+     * @return the first matching index, or -1 if absent
+     * @throws IllegalArgumentException if values is null
+     */
+    public static int linearSearch(int[] values, int target) {
+        if (values == null) {
+            throw new IllegalArgumentException("Array must not be null");
+        }
+        for (int i = 0; i < values.length; i++) {
+            if (values[i] == target) {
+                return i;
+            }
+        }
+        return -1;
+    }
 }
